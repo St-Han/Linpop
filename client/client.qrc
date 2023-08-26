@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>pic/background/Linpop.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>pic/icon/goToRegister.png</file>
+        <file>pic/icon/login_name.png</file>
+        <file>pic/icon/password.png</file>
+        <file>pic/icon/goToHome.png</file>
+        <file>pic/icon/goToChat.png</file>
+        <file>pic/icon/password2.png</file>
+        <file>pic/icon/refresh.png</file>
+        <file>pic/icon/send.png</file>
+    </qresource>
+</RCC>
