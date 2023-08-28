@@ -45,7 +45,7 @@ public:
         QFont font;
         font.setPointSize(40);
         font.setBold(true);
-        font.setWeight(75);
+        //font.setWeight(75);
         label_2->setFont(font);
         label_2->setStyleSheet(QString::fromUtf8("color:#3E5684"));
         textBrowser = new QTextBrowser(chatdialog);

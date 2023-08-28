@@ -49,7 +49,7 @@ public:
         QFont font;
         font.setPointSize(50);
         font.setBold(true);
-        font.setWeight(75);
+        //font.setWeight(75);
         userName->setFont(font);
         userName->setStyleSheet(QString::fromUtf8("color:#3E5684"));
         userName->setAlignment(Qt::AlignCenter);
@@ -59,7 +59,7 @@ public:
         QFont font1;
         font1.setPointSize(25);
         font1.setBold(false);
-        font1.setWeight(50);
+        //font1.setWeight(50);
         userName_2->setFont(font1);
         userName_2->setStyleSheet(QString::fromUtf8("color:#3E5684"));
         refreshBtn = new QPushButton(home);

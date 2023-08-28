@@ -3,7 +3,7 @@
 userInfo::userInfo()
 {
     this->isLogin = false;
-    this->ip = "10.171.213.244";
+    this->ip = "10.196.157.1";
     this->port = 8888;
 }
 

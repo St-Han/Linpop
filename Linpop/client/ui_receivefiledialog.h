@@ -48,7 +48,7 @@ public:
         QFont font1;
         font1.setPointSize(30);
         font1.setBold(true);
-        font1.setWeight(75);
+        //font1.setWeight(75);
         friendName->setFont(font1);
         friendName->setStyleSheet(QString::fromUtf8("color:#3E5684"));
         friendName->setAlignment(Qt::AlignCenter);
@@ -63,7 +63,7 @@ public:
         QFont font2;
         font2.setPointSize(50);
         font2.setBold(true);
-        font2.setWeight(75);
+        //font2.setWeight(75);
         userName->setFont(font2);
         userName->setStyleSheet(QString::fromUtf8("color:#3E5684"));
         progressBar = new QProgressBar(receivefiledialog);
@@ -83,7 +83,7 @@ public:
         font4.setFamily(QString::fromUtf8("FreeSans"));
         font4.setPointSize(20);
         font4.setBold(false);
-        font4.setWeight(50);
+        //font4.setWeight(50);
         statusLabel->setFont(font4);
         statusLabel->setStyleSheet(QString::fromUtf8("color:#3E5684"));
         statusLabel->setAlignment(Qt::AlignCenter);
@@ -97,7 +97,7 @@ public:
         QFont font5;
         font5.setPointSize(25);
         font5.setBold(false);
-        font5.setWeight(50);
+        //font5.setWeight(50);
         userName_4->setFont(font5);
         userName_4->setStyleSheet(QString::fromUtf8("color:#3E5684"));
 

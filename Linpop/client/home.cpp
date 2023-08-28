@@ -17,7 +17,7 @@ QList <QString> friendStatusList;   //'1'表示在线
 QList <QString> friendSendMsgList;
 QList <QString> friendSendFileList;
 
-QString hostip = "127.0.0.1";   // 服务器ip和端口
+QString hostip = "10.196.157.1";   // 服务器ip和端口
 int hostport = 8888;
 
 bool is_open_chatdialog; // 标记是否打开聊天窗口

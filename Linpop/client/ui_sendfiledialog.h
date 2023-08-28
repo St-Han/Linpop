@@ -48,7 +48,7 @@ public:
         QFont font1;
         font1.setPointSize(50);
         font1.setBold(true);
-        font1.setWeight(75);
+        //font1.setWeight(75);
         userName->setFont(font1);
         userName->setStyleSheet(QString::fromUtf8("color:#3E5684"));
         userName_2 = new QLabel(sendfiledialog);
@@ -57,7 +57,7 @@ public:
         QFont font2;
         font2.setPointSize(30);
         font2.setBold(true);
-        font2.setWeight(75);
+        //font2.setWeight(75);
         userName_2->setFont(font2);
         userName_2->setStyleSheet(QString::fromUtf8("color:#3E5684"));
         friendName = new QLabel(sendfiledialog);
@@ -73,7 +73,7 @@ public:
         font3.setFamily(QString::fromUtf8("FreeSans"));
         font3.setPointSize(20);
         font3.setBold(false);
-        font3.setWeight(50);
+        //font3.setWeight(50);
         statusLabel->setFont(font3);
         statusLabel->setStyleSheet(QString::fromUtf8("color:#3E5684"));
         statusLabel->setAlignment(Qt::AlignCenter);
@@ -91,7 +91,7 @@ public:
         QFont font4;
         font4.setPointSize(25);
         font4.setBold(false);
-        font4.setWeight(50);
+        //font4.setWeight(50);
         userName_3->setFont(font4);
         userName_3->setStyleSheet(QString::fromUtf8("color:#3E5684"));
         userName_4 = new QLabel(sendfiledialog);
