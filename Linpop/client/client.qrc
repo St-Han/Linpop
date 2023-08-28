@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>pic/background/Linpop.png</file>
+        <file>pic/background/chatBackground.png</file>
+        <file>pic/background/fileBackground.png</file>
+        <file>pic/background/homeBackground.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>pic/icon/goToRegister.png</file>
+        <file>pic/icon/login_name.png</file>
+        <file>pic/icon/password.png</file>
+        <file>pic/icon/goToHome.png</file>
+        <file>pic/icon/goToChat.png</file>
+        <file>pic/icon/password2.png</file>
+        <file>pic/icon/refresh.png</file>
+        <file>pic/icon/send.png</file>
+        <file>pic/icon/addFriend.png</file>
+        <file>pic/icon/back.png</file>
+        <file>pic/icon/back2.png</file>
+        <file>pic/icon/chooseFile.png</file>
+        <file>pic/icon/recvFile.png</file>
+        <file>pic/icon/removeFriend.png</file>
+        <file>pic/icon/sendFile.png</file>
+    </qresource>
+</RCC>
